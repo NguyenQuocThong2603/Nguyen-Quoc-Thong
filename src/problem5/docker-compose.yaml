@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  mongo:
+    image: mongo:6
+    container_name: mongodb
+    restart: always
+    ports:
+      - "27018:27017"
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: app
+    depends_on:
+      - mongo
+    environment:
+      - MONGO_URI=mongodb://mongo:27017/ecommerce-store
+      - PORT=3000
+    ports:
+      - "3000:3000"
+    command: > 
+      sh -c "node dist/infrastructure/data-gateway/providers/mongo/migrations/init-data.js ; node dist/main.js"
+    volumes:
+      - .:/usr/src/app

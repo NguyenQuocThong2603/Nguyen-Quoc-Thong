@@ -1,0 +1,560 @@
+[
+  {
+    "name": "Wireless Bluetooth Headphones",
+    "imageUrl": "https://images.example.com/products/wireless-headphones-001.jpg",
+    "description": "Premium wireless headphones with active noise cancellation and 30-hour battery life. Perfect for music lovers and professionals.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Fitness Watch",
+    "imageUrl": "https://images.example.com/products/fitness-watch-002.jpg",
+    "description": "Advanced fitness tracker with heart rate monitoring, GPS, and waterproof design. Track your workouts and daily activities.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Laptop Stand Adjustable",
+    "imageUrl": "https://images.example.com/products/laptop-stand-003.jpg",
+    "description": "Ergonomic aluminum laptop stand with adjustable height and angle. Improve your posture while working from home.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Coffee Maker Pro",
+    "imageUrl": "https://images.example.com/products/coffee-maker-004.jpg",
+    "description": "Professional-grade coffee maker with programmable brewing, thermal carafe, and built-in grinder.",
+    "status": "INACTIVE"
+  },
+  {
+    "name": "Gaming Mechanical Keyboard",
+    "imageUrl": "https://images.example.com/products/gaming-keyboard-005.jpg",
+    "description": "RGB backlit mechanical keyboard with customizable keys and tactile switches. Designed for gamers and programmers.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Portable Phone Charger",
+    "imageUrl": "https://images.example.com/products/phone-charger-006.jpg",
+    "description": "Fast-charging portable battery pack with wireless charging capability and 20000mAh capacity.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Desk Organizer Set",
+    "imageUrl": "https://images.example.com/products/desk-organizer-007.jpg",
+    "description": "Bamboo desk organizer with compartments for pens, papers, and office supplies. Eco-friendly and stylish.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Bluetooth Speaker Mini",
+    "imageUrl": "https://images.example.com/products/bluetooth-speaker-008.jpg",
+    "description": "Compact waterproof Bluetooth speaker with 360-degree sound and 12-hour battery life. Perfect for outdoor activities.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "LED Ring Light",
+    "imageUrl": "https://images.example.com/products/led-ring-light-009.jpg",
+    "description": "Professional LED ring light with adjustable brightness and color temperature. Ideal for photography and video calls.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Wireless Mouse Silent",
+    "imageUrl": "https://images.example.com/products/wireless-mouse-010.jpg",
+    "description": "Ergonomic wireless mouse with silent clicking and precision tracking. Comfortable for long working sessions.",
+    "status": "INACTIVE"
+  },
+  {
+    "name": "USB-C Hub Multiport",
+    "imageUrl": "https://images.example.com/products/usb-c-hub-011.jpg",
+    "description": "7-in-1 USB-C hub with HDMI, USB 3.0, ethernet, and SD card slots. Essential for modern laptops.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Webcam HD 1080p",
+    "imageUrl": "https://images.example.com/products/webcam-hd-012.jpg",
+    "description": "High-definition webcam with auto-focus and built-in microphone. Perfect for video conferences and streaming.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Tablet Stand Foldable",
+    "imageUrl": "https://images.example.com/products/tablet-stand-013.jpg",
+    "description": "Portable aluminum tablet stand with adjustable angles. Compatible with all tablet sizes.",
+    "status": "INACTIVE"
+  },
+  {
+    "name": "Wireless Earbuds Pro",
+    "imageUrl": "https://images.example.com/products/earbuds-pro-014.jpg",
+    "description": "True wireless earbuds with active noise cancellation and 8-hour battery life. Premium sound quality.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Monitor Screen Protector",
+    "imageUrl": "https://images.example.com/products/screen-protector-015.jpg",
+    "description": "Anti-blue light screen protector for 24-inch monitors. Reduces eye strain during long working hours.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smartphone Car Mount",
+    "imageUrl": "https://images.example.com/products/car-mount-016.jpg",
+    "description": "Universal car mount with 360-degree rotation and secure grip. Safe hands-free phone use while driving.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Cable Management Kit",
+    "imageUrl": "https://images.example.com/products/cable-management-017.jpg",
+    "description": "Complete cable management solution with clips, ties, and organizers. Keep your workspace tidy.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Laptop Cooling Pad",
+    "imageUrl": "https://images.example.com/products/cooling-pad-018.jpg",
+    "description": "Laptop cooling pad with dual fans and adjustable height. Prevents overheating during intensive tasks.",
+    "status": "INACTIVE"
+  },
+  {
+    "name": "Wireless Charging Pad",
+    "imageUrl": "https://images.example.com/products/wireless-charger-019.jpg",
+    "description": "Fast wireless charging pad compatible with all Qi-enabled devices. Sleek design with LED indicator.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Bluetooth Trackpad",
+    "imageUrl": "https://images.example.com/products/trackpad-020.jpg",
+    "description": "Precision Bluetooth trackpad with multi-touch gestures. Perfect companion for desktop setups.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Phone Lens Attachment Kit",
+    "imageUrl": "https://images.example.com/products/phone-lens-021.jpg",
+    "description": "Professional phone lens kit with macro, wide-angle, and telephoto lenses. Enhance your mobile photography.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Digital Drawing Tablet",
+    "imageUrl": "https://images.example.com/products/drawing-tablet-022.jpg",
+    "description": "Pressure-sensitive drawing tablet with stylus pen. Ideal for digital artists and designers.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Home Hub",
+    "imageUrl": "https://images.example.com/products/smart-hub-023.jpg",
+    "description": "Central smart home hub with voice control and app integration. Control all your smart devices.",
+    "status": "INACTIVE"
+  },
+  {
+    "name": "Portable SSD Drive",
+    "imageUrl": "https://images.example.com/products/ssd-drive-024.jpg",
+    "description": "Ultra-fast 1TB portable SSD with USB-C connectivity. Secure and reliable external storage.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Ergonomic Wrist Rest",
+    "imageUrl": "https://images.example.com/products/wrist-rest-025.jpg",
+    "description": "Memory foam wrist rest for keyboard and mouse. Reduces strain and improves comfort.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Action Camera 4K",
+    "imageUrl": "https://images.example.com/products/action-camera-026.jpg",
+    "description": "Waterproof 4K action camera with image stabilization. Perfect for adventures and sports.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Light Bulb Set",
+    "imageUrl": "https://images.example.com/products/smart-bulbs-027.jpg",
+    "description": "WiFi-enabled smart bulbs with color changing and dimming features. Control with your smartphone.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Laptop Privacy Screen",
+    "imageUrl": "https://images.example.com/products/privacy-screen-028.jpg",
+    "description": "Magnetic privacy screen filter for 13-inch laptops. Protects sensitive information in public spaces.",
+    "status": "INACTIVE"
+  },
+  {
+    "name": "Wireless Gaming Controller",
+    "imageUrl": "https://images.example.com/products/gaming-controller-029.jpg",
+    "description": "Bluetooth gaming controller with haptic feedback and customizable buttons. Compatible with PC and mobile.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Desk Lamp LED",
+    "imageUrl": "https://images.example.com/products/desk-lamp-030.jpg",
+    "description": "Adjustable LED desk lamp with touch controls and USB charging port. Eye-friendly lighting for work.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smartphone Gimbal",
+    "imageUrl": "https://images.example.com/products/phone-gimbal-031.jpg",
+    "description": "3-axis smartphone gimbal for smooth video recording. Professional stabilization for content creators.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Wireless Presenter Remote",
+    "imageUrl": "https://images.example.com/products/presenter-remote-032.jpg",
+    "description": "Wireless presenter remote with laser pointer and slide control. Essential for presentations.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Cable Tester Kit",
+    "imageUrl": "https://images.example.com/products/cable-tester-033.jpg",
+    "description": "Professional cable tester for network and USB cables. Troubleshoot connection issues quickly.",
+    "status": "INACTIVE"
+  },
+  {
+    "name": "Laptop Backpack Anti-Theft",
+    "imageUrl": "https://images.example.com/products/laptop-backpack-034.jpg",
+    "description": "Water-resistant laptop backpack with anti-theft features and USB charging port. Secure and practical.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Bluetooth Barcode Scanner",
+    "imageUrl": "https://images.example.com/products/barcode-scanner-035.jpg",
+    "description": "Wireless barcode scanner with long battery life. Ideal for inventory management and retail.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Door Lock",
+    "imageUrl": "https://images.example.com/products/smart-lock-036.jpg",
+    "description": "Keyless smart door lock with fingerprint and app control. Enhanced home security solution.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Portable Projector Mini",
+    "imageUrl": "https://images.example.com/products/mini-projector-037.jpg",
+    "description": "Compact portable projector with WiFi connectivity. Perfect for presentations and movie nights.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Wireless Keyboard Split",
+    "imageUrl": "https://images.example.com/products/split-keyboard-038.jpg",
+    "description": "Ergonomic split keyboard with wireless connectivity. Reduces wrist strain and improves typing comfort.",
+    "status": "INACTIVE"
+  },
+  {
+    "name": "Smart Thermostat",
+    "imageUrl": "https://images.example.com/products/smart-thermostat-039.jpg",
+    "description": "WiFi-enabled smart thermostat with learning capabilities. Optimize energy usage and comfort.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Phone Stand Adjustable",
+    "imageUrl": "https://images.example.com/products/phone-stand-040.jpg",
+    "description": "Adjustable phone stand with cable management. Perfect for video calls and content viewing.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Wireless Headset Gaming",
+    "imageUrl": "https://images.example.com/products/gaming-headset-041.jpg",
+    "description": "Wireless gaming headset with 7.1 surround sound and noise-canceling microphone. Immersive gaming experience.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Watch Fitness",
+    "imageUrl": "https://images.example.com/products/fitness-smartwatch-042.jpg",
+    "description": "Fitness-focused smartwatch with heart rate monitoring and GPS. Track your health and workouts.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Laptop Docking Station",
+    "imageUrl": "https://images.example.com/products/docking-station-043.jpg",
+    "description": "Universal laptop docking station with multiple ports. Transform your laptop into a desktop setup.",
+    "status": "INACTIVE"
+  },
+  {
+    "name": "Wireless Mouse Vertical",
+    "imageUrl": "https://images.example.com/products/vertical-mouse-044.jpg",
+    "description": "Ergonomic vertical mouse with wireless connectivity. Reduces wrist strain during extended use.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Security Camera",
+    "imageUrl": "https://images.example.com/products/security-camera-045.jpg",
+    "description": "WiFi security camera with night vision and motion detection. Monitor your home remotely.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Portable Monitor USB",
+    "imageUrl": "https://images.example.com/products/portable-monitor-046.jpg",
+    "description": "15-inch portable monitor with USB-C connectivity. Extend your screen real estate anywhere.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Bluetooth Adapter USB",
+    "imageUrl": "https://images.example.com/products/bluetooth-adapter-047.jpg",
+    "description": "USB Bluetooth adapter with extended range. Add Bluetooth capability to any device.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Doorbell Camera",
+    "imageUrl": "https://images.example.com/products/doorbell-camera-048.jpg",
+    "description": "Video doorbell with two-way audio and motion alerts. See and speak to visitors remotely.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Wireless Charging Stand",
+    "imageUrl": "https://images.example.com/products/charging-stand-049.jpg",
+    "description": "Adjustable wireless charging stand with fast charging. Perfect for desk or bedside use.",
+    "status": "INACTIVE"
+  },
+  {
+    "name": "Laptop Sleeve Waterproof",
+    "imageUrl": "https://images.example.com/products/laptop-sleeve-050.jpg",
+    "description": "Waterproof laptop sleeve with shock absorption. Protect your laptop from damage and elements.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Plug WiFi",
+    "imageUrl": "https://images.example.com/products/smart-plug-051.jpg",
+    "description": "WiFi-enabled smart plug with scheduling and voice control. Automate your home appliances.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Wireless Numeric Keypad",
+    "imageUrl": "https://images.example.com/products/numeric-keypad-052.jpg",
+    "description": "Bluetooth numeric keypad for laptops. Essential for data entry and accounting work.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Mirror Bathroom",
+    "imageUrl": "https://images.example.com/products/smart-mirror-053.jpg",
+    "description": "LED bathroom mirror with touch controls and anti-fog feature. Modern upgrade for your bathroom.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Portable Hard Drive",
+    "imageUrl": "https://images.example.com/products/hard-drive-054.jpg",
+    "description": "2TB portable hard drive with USB 3.0 connectivity. Reliable storage for your important files.",
+    "status": "INACTIVE"
+  },
+  {
+    "name": "Wireless Presenter Clicker",
+    "imageUrl": "https://images.example.com/products/presenter-clicker-055.jpg",
+    "description": "Compact wireless presenter with red laser pointer. Professional presentation tool.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Light Switch",
+    "imageUrl": "https://images.example.com/products/smart-switch-056.jpg",
+    "description": "WiFi smart light switch with dimming and scheduling. Control your lights remotely.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Bluetooth Audio Receiver",
+    "imageUrl": "https://images.example.com/products/audio-receiver-057.jpg",
+    "description": "Bluetooth audio receiver for stereo systems. Add wireless capability to wired speakers.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Laptop Fan Cooler",
+    "imageUrl": "https://images.example.com/products/laptop-fan-058.jpg",
+    "description": "External laptop fan cooler with temperature control. Prevent overheating during intensive tasks.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Smoke Detector",
+    "imageUrl": "https://images.example.com/products/smoke-detector-059.jpg",
+    "description": "WiFi-enabled smoke detector with smartphone alerts. Enhanced home safety with smart features.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Wireless Keyboard Compact",
+    "imageUrl": "https://images.example.com/products/compact-keyboard-060.jpg",
+    "description": "Compact wireless keyboard with quiet keys. Space-saving design for small workspaces.",
+    "status": "INACTIVE"
+  },
+  {
+    "name": "Smart Water Bottle",
+    "imageUrl": "https://images.example.com/products/smart-bottle-061.jpg",
+    "description": "Smart water bottle with hydration tracking and temperature display. Stay hydrated smartly.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Wireless Microphone System",
+    "imageUrl": "https://images.example.com/products/wireless-mic-062.jpg",
+    "description": "Professional wireless microphone system with clear audio transmission. Perfect for presentations.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Pet Feeder",
+    "imageUrl": "https://images.example.com/products/pet-feeder-063.jpg",
+    "description": "Automated pet feeder with app control and portion monitoring. Take care of your pet remotely.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Portable WiFi Hotspot",
+    "imageUrl": "https://images.example.com/products/wifi-hotspot-064.jpg",
+    "description": "Portable 4G WiFi hotspot device with long battery life. Internet connectivity anywhere.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Garden Sensor",
+    "imageUrl": "https://images.example.com/products/garden-sensor-065.jpg",
+    "description": "WiFi garden sensor monitoring soil moisture and temperature. Smart gardening made easy.",
+    "status": "INACTIVE"
+  },
+  {
+    "name": "Wireless Presentation Screen",
+    "imageUrl": "https://images.example.com/products/presentation-screen-066.jpg",
+    "description": "Wireless presentation screen with multi-device connectivity. Seamless screen sharing solution.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Air Purifier",
+    "imageUrl": "https://images.example.com/products/air-purifier-067.jpg",
+    "description": "WiFi-enabled air purifier with air quality monitoring. Breathe cleaner air with smart controls.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Bluetooth Label Printer",
+    "imageUrl": "https://images.example.com/products/label-printer-068.jpg",
+    "description": "Portable Bluetooth label printer for organization. Print labels directly from your smartphone.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Window Blinds",
+    "imageUrl": "https://images.example.com/products/smart-blinds-069.jpg",
+    "description": "Motorized smart blinds with app and voice control. Automate your window treatments.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Wireless Document Scanner",
+    "imageUrl": "https://images.example.com/products/document-scanner-070.jpg",
+    "description": "Portable wireless document scanner with cloud integration. Digitize documents anywhere.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Garage Door Opener",
+    "imageUrl": "https://images.example.com/products/garage-opener-071.jpg",
+    "description": "WiFi garage door opener with smartphone control. Monitor and control your garage remotely.",
+    "status": "INACTIVE"
+  },
+  {
+    "name": "Wireless Earphones Sport",
+    "imageUrl": "https://images.example.com/products/sport-earphones-072.jpg",
+    "description": "Waterproof wireless earphones designed for sports. Secure fit with premium sound quality.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Doormat Sensor",
+    "imageUrl": "https://images.example.com/products/smart-doormat-073.jpg",
+    "description": "Smart doormat with visitor detection and notifications. Know when someone is at your door.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Wireless Keyboard Backlit",
+    "imageUrl": "https://images.example.com/products/backlit-keyboard-074.jpg",
+    "description": "Backlit wireless keyboard with customizable lighting. Type comfortably in low-light conditions.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Fish Tank Monitor",
+    "imageUrl": "https://images.example.com/products/fish-tank-monitor-075.jpg",
+    "description": "WiFi fish tank monitor with water quality sensors. Maintain optimal conditions for your fish.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Portable Bluetooth Projector",
+    "imageUrl": "https://images.example.com/products/bluetooth-projector-076.jpg",
+    "description": "Compact Bluetooth projector with wireless connectivity. Entertainment anywhere you go.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Bike Lock",
+    "imageUrl": "https://images.example.com/products/smart-bike-lock-077.jpg",
+    "description": "GPS-enabled smart bike lock with theft alerts. Secure your bike with advanced technology.",
+    "status": "INACTIVE"
+  },
+  {
+    "name": "Wireless Phone Charger Car",
+    "imageUrl": "https://images.example.com/products/car-charger-wireless-078.jpg",
+    "description": "Wireless car charger with automatic clamping. Charge your phone safely while driving.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Mailbox Sensor",
+    "imageUrl": "https://images.example.com/products/mailbox-sensor-079.jpg",
+    "description": "Smart mailbox sensor with delivery notifications. Know when mail arrives instantly.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Bluetooth Shower Speaker",
+    "imageUrl": "https://images.example.com/products/shower-speaker-080.jpg",
+    "description": "Waterproof Bluetooth speaker for shower use. Enjoy music while maintaining hygiene.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Plant Watering System",
+    "imageUrl": "https://images.example.com/products/plant-watering-081.jpg",
+    "description": "Automated plant watering system with app control. Keep your plants healthy automatically.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Wireless Gaming Mouse RGB",
+    "imageUrl": "https://images.example.com/products/gaming-mouse-rgb-082.jpg",
+    "description": "High-performance wireless gaming mouse with RGB lighting. Precision gaming with style.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Curtain Controller",
+    "imageUrl": "https://images.example.com/products/curtain-controller-083.jpg",
+    "description": "Motorized curtain controller with smart home integration. Automate your curtains effortlessly.",
+    "status": "INACTIVE"
+  },
+  {
+    "name": "Portable Bluetooth Keyboard",
+    "imageUrl": "https://images.example.com/products/portable-keyboard-084.jpg",
+    "description": "Foldable Bluetooth keyboard for tablets and phones. Productivity on the go made easy.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Coffee Mug",
+    "imageUrl": "https://images.example.com/products/smart-coffee-mug-085.jpg",
+    "description": "Temperature-controlled smart coffee mug with app integration. Keep your coffee at perfect temperature.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Wireless Presentation Pointer",
+    "imageUrl": "https://images.example.com/products/presentation-pointer-086.jpg",
+    "description": "Advanced wireless presentation pointer with air mouse function. Professional presentation tool.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Desk Pad",
+    "imageUrl": "https://images.example.com/products/smart-desk-pad-087.jpg",
+    "description": "Smart desk pad with wireless charging zones and LED lighting. Upgrade your workspace.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Bluetooth Sleep Tracker",
+    "imageUrl": "https://images.example.com/products/sleep-tracker-088.jpg",
+    "description": "Under-mattress sleep tracker with detailed sleep analysis. Improve your sleep quality.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Pill Dispenser",
+    "imageUrl": "https://images.example.com/products/pill-dispenser-089.jpg",
+    "description": "Automated pill dispenser with medication reminders. Never miss your medication again.",
+    "status": "INACTIVE"
+  },
+  {
+    "name": "Wireless Ergonomic Mouse",
+    "imageUrl": "https://images.example.com/products/ergonomic-mouse-090.jpg",
+    "description": "Ergonomic wireless mouse with thumb rest and customizable buttons. Comfort for extended use.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Jewelry Organizer",
+    "imageUrl": "https://images.example.com/products/jewelry-organizer-091.jpg",
+    "description": "Smart jewelry organizer with LED lighting and inventory tracking. Organize your accessories smartly.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Bluetooth Tire Pressure Monitor",
+    "imageUrl": "https://images.example.com/products/tire-monitor-092.jpg",
+    "description": "Wireless tire pressure monitoring system with smartphone alerts. Maintain optimal tire pressure.",
+    "status": "ACTIVE"
+  },
+  {
+    "name": "Smart Humidifier",
+    "imageUrl": "https://images.example.com/products/smart-humidifier-093.jpg",
+    "description": "WiFi-enabled humidifier with humidity control and scheduling. Maintain optimal air moisture.",
+    "status": "ACTIVE"
+  }
+]
