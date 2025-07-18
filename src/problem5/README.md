@@ -11,7 +11,7 @@ This project is a TypeScript/NestJS server with a MongoDB database. You can run 
 
 1. **Build and start the services**
 
-   Run this command in the terminal
+   Run this command in this folder terminal
 
    ```bash
    docker-compose up -d
