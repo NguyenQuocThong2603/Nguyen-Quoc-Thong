@@ -4,7 +4,7 @@
 
 To meet the system requirements, the following microservices are required:
 
-### API Gateway / Load Balancer
+### API Gateway
 
 - Acts as the entry point for all HTTP requests
 - Routes incoming requests to the appropriate internal services
@@ -104,30 +104,30 @@ sequenceDiagram
 ```mermaid
 graph TD
     %% External
-    User[👤 User/Client]
-    WebClient[🌐 WebSocket Client]
+    User[User/Client]
+    WebClient[WebSocket Client]
     
     %% API Gateway Layer
-    Gateway[🚪 API Gateway<br/>Load Balancer]
+    Gateway[API Gateway]
     
     %% Authentication System
-    AuthService[🔐 Auth Service]
-    UserDB[(👥 User Database)]
+    AuthService[Auth Service]
+    UserDB[(User Database)]
     
     %% Application System
-    AppService[⚙️ Application Service]
-    AppDB[(📊 Application Database)]
-    ScoreService[🏆 Score Service]
-    ScoreDB[(🎯 Score Database)]
-    RedisCache[(⚡ Redis Cache<br/>Leaderboard)]
+    AppService[Application Service]
+    AppDB[(Application Database)]
+    ScoreService[Score Service]
+    ScoreDB[(Score Database)]
+    RedisCache[(Redis Cache<br/>Leaderboard)]
     
     %% Real-time System
-    WSServer[📡 WebSocket Server]
+    WSServer[WebSocket Server]
     
     %% Message Queue
-    MQ[📨 Message Queue]
-    CalcTopic[📋 calculate-leaderboard-topic]
-    ChangeTopic[📢 change-leaderboard-topic]
+    MQ[ Message Queue]
+    CalcTopic[ calculate-leaderboard-topic]
+    ChangeTopic[ change-leaderboard-topic]
     
     %% User interactions
     User -->|Complete Action Request| Gateway
